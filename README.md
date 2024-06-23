@@ -18,4 +18,5 @@ ScoreZ is here to be your **pocket-sized hero**, saving you from the burden of  
 
 **Download ScoreZ, ditch the deadweight, and get back to dominating the pitch!**!
 ## Screenshots
-![]((https://github.com/CSAbhiOnline/ScoreZ/blob/main/Screenshots/1719133638131.jpg))
+![Alt text](https://github.com/CSAbhiOnline/ScoreZ/blob/main/Screenshots/1719133638139.jpg?raw=true)
+![Alt text](https://github.com/CSAbhiOnline/ScoreZ/blob/main/Screenshots/1719133638131.jpg?raw=true)
