@@ -17,6 +17,7 @@ ScoreZ is here to be your **pocket-sized hero**, saving you from the burden of  
 * **Gamers on the go** who like their cricket quick and clean.
 
 **Download ScoreZ, ditch the deadweight, and get back to dominating the pitch!**!
+Logo converting done by Pradiptya Banik
 ## Screenshots
 ![Alt text](https://github.com/CSAbhiOnline/ScoreZ/blob/main/Screenshots/1719133638139.jpg?raw=true)
 ![Alt text](https://github.com/CSAbhiOnline/ScoreZ/blob/main/Screenshots/1719133638131.jpg?raw=true)
