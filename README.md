@@ -16,4 +16,6 @@ ScoreZ is here to be your **pocket-sized hero**, saving you from the burden of  
 * **Keeping it old-school** with your childhood crew. 
 * **Gamers on the go** who like their cricket quick and clean.
 
-**Download ScoreZ, ditch the deadweight, and get back to dominating the pitch!**
+**Download ScoreZ, ditch the deadweight, and get back to dominating the pitch!**!
+## Screenshots
+![]((https://github.com/CSAbhiOnline/ScoreZ/blob/main/Screenshots/1719133638131.jpg))
